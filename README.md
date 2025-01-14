@@ -13,16 +13,16 @@ Group (NSG).
 5. Test access to the Nginx web server from a browser.
 6. Verify that any other ports are blocked by the NSG.
 
-![img](/Task_2/screenshots/1_1.png)
-![img](/Task_2/screenshots/1_2.png)
-![img](/Task_2/screenshots/1_3.png)
-![img](/Task_2/screenshots/1_4.png)
-![img](/Task_2/screenshots/1_5.png)
-![img](/Task_2/screenshots/1_6.png)
-![img](/Task_2/screenshots/1_7.png)
-![img](/Task_2/screenshots/1_8.png)
-![img](/Task_2/screenshots/1_9.png)
-![img](/Task_2/screenshots/1_10.png)
+![img](/screenshots/1_1.png)
+![img](/screenshots/1_2.png)
+![img](/screenshots/1_3.png)
+![img](/screenshots/1_4.png)
+![img](/screenshots/1_5.png)
+![img](/screenshots/1_6.png)
+![img](/screenshots/1_7.png)
+![img](/screenshots/1_8.png)
+![img](/screenshots/1_9.png)
+![img](/screenshots/1_10.png)
 
 ## Practical Task 2: Windows Virtual Machine and RDP Access Setup
 

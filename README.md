@@ -23,6 +23,7 @@ Group (NSG).
 ![img](/screenshots/1_8.png)
 ![img](/screenshots/1_9.png)
 ![img](/screenshots/1_10.png)
+---
 
 ## Practical Task 2: Windows Virtual Machine and RDP Access Setup
 
@@ -35,6 +36,21 @@ Protocol (RDP).
 4. Install a web server role (IIS) and deploy a simple test HTML page.
 5. Verify access to the test page from a browser.
 6. Ensure that unnecessary ports are closed, allowing only RDP (port 3389) and HTTP (port 80).
+
+![img](/screenshots/2_1.png)
+![img](/screenshots/2_2.png)
+![img](/screenshots/2_3.png)
+![img](/screenshots/2_4.png)
+![img](/screenshots/2_5.png)
+![img](/screenshots/2_6.png)
+![img](/screenshots/2_7.png)
+![img](/screenshots/2_8.png)
+![img](/screenshots/2_9.png)
+![img](/screenshots/2_10.png)
+![img](/screenshots/2_11.png)
+![img](/screenshots/2_12.png)
+![img](/screenshots/2_13.png)
+![img](/screenshots/2_14.png)
 
 ## Practical Task 3: Configuring an Azure Load Balancer
 

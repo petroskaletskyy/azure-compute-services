@@ -69,6 +69,17 @@ traffic is routed to both VMs (by observing the unique content from each server)
 6. Verify that the Load Balancer removes unavailable VM from the traffic pool when it fails the
 health probe.
 
+![img](/screenshots/3_1.png)
+![img](/screenshots/3_2.png)
+![img](/screenshots/3_3.png)
+![img](/screenshots/3_4.png)
+![img](/screenshots/3_5.png)
+![img](/screenshots/3_6.png)
+![img](/screenshots/3_7.png)
+![img](/screenshots/3_8.png)
+![img](/screenshots/3_9.png)
+![img](/screenshots/3_10.png)
+
 ## Practical Task 4: Configuring a Basic Load Balancer with Virtual Machine Scale Sets (VMSS)
 
 Set up a Basic Azure Load Balancer to distribute traffic across a Virtual Machine Scale Set (VMSS).

@@ -92,6 +92,16 @@ Set up a Basic Azure Load Balancer to distribute traffic across a Virtual Machin
 6. Test the setup by accessing the Load Balancer's public IP address and verifying traffic distribution across multiple VM instances.
 7. Verify that the Load Balancer removes an unavailable instance from the traffic pool when it fails the health probe.
 
+![img](/screenshots/4_1.png)
+![img](/screenshots/4_2.png)
+![img](/screenshots/4_3.png)
+![img](/screenshots/4_4.png)
+![img](/screenshots/4_5.png)
+![img](/screenshots/4_6.png)
+![img](/screenshots/4_7.png)
+![img](/screenshots/4_8.png)
+![img](/screenshots/4_9.png)
+
 ## Practical Task 5: Deploying a Web Application Using Azure App Services
 
 Set up and deploy a simple web application using Azure App Services.

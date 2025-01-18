@@ -116,6 +116,13 @@ Set up and deploy a simple web application using Azure App Services.
 5. Enable App Service Logs and verify that application logs are being generated.
 6. Clean up resources after completion to avoid unnecessary usage.
 
+![img](/screenshots/5_1.png)
+![img](/screenshots/5_2.png)
+![img](/screenshots/5_3.png)
+![img](/screenshots/5_4.png)
+![img](/screenshots/5_5.png)
+![img](/screenshots/5_6.png)
+
 ## Practical Task 6: Creating and Deploying an Azure Function to Process HTTP Requests
 
 Set up and deploy an Azure Function that processes HTTP requests directly from the Azure portal.

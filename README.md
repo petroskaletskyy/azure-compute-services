@@ -145,3 +145,11 @@ Set up and deploy an Azure Function that processes HTTP requests directly from t
 6. Monitor and Inspect:
    - Navigate to the Monitor tab of the Function App.
    - Check metrics like execution count, response time, and errors.
+
+![img](/screenshots/6_1.png)
+![img](/screenshots/6_2.png)
+![img](/screenshots/6_3.png)
+![img](/screenshots/6_4.png)
+![img](/screenshots/6_5.png)
+![img](/screenshots/6_6.png)
+![img](/screenshots/6_7.png)
